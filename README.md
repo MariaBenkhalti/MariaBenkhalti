@@ -13,8 +13,8 @@ Most of my code is in private repositories (commercial work). Public repos here 
 ## Background 
 - PhD, Population Health; MSc, Cellular and Molecular Medicine · 30+ peer-reviewed publications
 - Developer of two published equity tools used in HTA and evidence synthesis:
--   **ECHTA** ([Int J Technol Assess Health Care](https://www.cambridge.org/core/journals/international-journal-of-technology-assessment-in-health-care/article/abs/development-of-a-checklist-to-guide-equity-considerations-in-health-technology-assessment/E07D86D1ED6CF2F77ED79758EB093B8A))  
--   **ESEC**  ([Ann Epidemiol](https://www.sciencedirect.com/science/article/abs/pii/S104727972500331X))
+  -   **ECHTA** ([Int J Technol Assess Health Care](https://www.cambridge.org/core/journals/international-journal-of-technology-assessment-in-health-care/article/abs/development-of-a-checklist-to-guide-equity-considerations-in-health-technology-assessment/E07D86D1ED6CF2F77ED79758EB093B8A))  
+  -   **ESEC**  ([Ann Epidemiol](https://www.sciencedirect.com/science/article/abs/pii/S104727972500331X))
 - Methods: Cochrane systematic reviews, GRADE, economic model appraisal, discrete choice experiments
 - English / Français / Español
 
