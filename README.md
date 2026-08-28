@@ -8,7 +8,7 @@ Today I'm co-founder and CEO of **Palmera Health Sciences**, where we build AI s
 ## What you'll find here 
 Most of my code is in private repositories (commercial work). Public repos here are methods projects and evaluation frameworks: 
 - **[nma-replication]** — replication of a published network meta-analysis in R (`netmeta`), with notes on ITC feasibility assessment (in progress)
-- **[llm-evidence-eval]** — evaluation framework (rubrics, prompts, scoring) for testing LLM reliability on evidence synthesis tasks (in progress)
+- **[llm-eval-equity-evidence-synthesis]** — evaluation framework (rubrics, prompts, scoring) for testing LLM reliability on considering equity in evidence synthesis tasks (in progress)
 
 ## Background 
 - PhD, Population Health; MSc, Cellular and Molecular Medicine · 30+ peer-reviewed publications
